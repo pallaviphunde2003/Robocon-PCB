@@ -1,0 +1,26 @@
+Altium Designer Pick and Place Locations
+D:\Projects\Robocon_2k24_PCB\SignalPCB\SignalPCB1\Project Outputs for SignalPCB1\Generates pick and place files\Pick Place for PCB1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       04-06-24
+Time:       17.28
+Revision:   db9b045c060eb662ae4cb77492796392d0557ad4
+Variant:    No variations
+Units used: mil
+
+Designator Comment                 Layer       Footprint                      Center-X(mil) Center-Y(mil) Rotation Description                                                                                              
+M5         "Header 5"              BottomLayer HDR1X5                         -1010.000     -170.000      0        "Header, 5-Pin"                                                                                          
+GND2       "Header 5"              TopLayer    HDR1X5                         -75.000       -1350.000     90       "Header, 5-Pin"                                                                                          
+GND1       "Header 5"              TopLayer    HDR1X5                         -1600.000     -170.000      0        "Header, 5-Pin"                                                                                          
+5V2        "Header 5"              TopLayer    HDR1X5                         -100.000      -650.000      90       "Header, 5-Pin"                                                                                          
+CONNECTOR  "Header 11"             TopLayer    HDR1X11                        -1050.000     -625.000      180      "Header, 11-Pin"                                                                                         
+RXTX       "Header 2"              TopLayer    HDR1X2                         -1675.000     -750.000      270      "Header, 2-Pin"                                                                                          
+RPI        RASPBERRY_PI_3_MODEL_B+ TopLayer    MODULE_RASPBERRY_PI_3_MODEL_B+ -1200.000     -1000.000     180      "Case Plastic, ABS Black Hand Held, Split Sides 3.520 L x 2.740 W (89.41mm x 69.60mm) X 0.980 (24.89mm)" 
+I2C        "Header 2"              TopLayer    HDR1X2                         -375.000      -625.000      180      "Header, 2-Pin"                                                                                          
+M4         "Header 5"              BottomLayer HDR1X5                         -370.000      -1730.000     0        "Header, 5-Pin"                                                                                          
+M3         "Header 5"              BottomLayer HDR1X5                         -390.000      -170.000      0        "Header, 5-Pin"                                                                                          
+M2         "Header 5"              BottomLayer HDR1X5                         -2150.000     -180.000      180      "Header, 5-Pin"                                                                                          
+M1         "Header 5"              BottomLayer HDR1X5                         -2070.000     -1730.000     0        "Header, 5-Pin"                                                                                          
+3V3        "Header 5"              TopLayer    HDR1X5                         -1150.000     -1550.000     0        "Header, 5-Pin"                                                                                          

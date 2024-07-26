@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=DIR21 Pin=M2-
+Added Component: Designator=M5(HDR1X5)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin M2-1
+Added Pin To Net: NetName=GND Pin=M5-1
+Added Pin To Net: NetName=PIN23 Pin=M5-2
+Added Pin To Net: NetName=PIN21 Pin=M5-3
+Added Pin To Net: NetName=PIN19 Pin=M5-4
+Added Pin To Net: NetName=PIN15 Pin=M5-5
+Added Member To Class: ClassName=Sheet1 Member=Component M5 Header 5

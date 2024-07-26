@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=5V Pin=5V1-1
+Removed Pin From Net: NetName=5V Pin=5V1-2
+Removed Pin From Net: NetName=5V Pin=5V1-3
+Removed Pin From Net: NetName=5V Pin=5V1-4
+Removed Pin From Net: NetName=5V Pin=5V1-5
+Removed Member From Class: ClassName=Sheet1 Member=5V1
+Added Rule: Name=MaxMinWidth_2
+Change Rule Name: Old Name=MaxMinWidth_1 New Name=Width
+Change object: Duplicates not allowed

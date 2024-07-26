@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=ARDUINO-GND1
+Removed Pin From Net: NetName=GND Pin=ARDUINO-GND2
+Removed Pin From Net: NetName=GND Pin=ARDUINO-GND3
+Removed Pin From Net: NetName=GND Pin=ARDUINO-GND4
+Removed Pin From Net: NetName=GND Pin=ARDUINO-GND5
+Removed Pin From Net: NetName=SCL Pin=ARDUINO-SCL
+Removed Pin From Net: NetName=SDA Pin=ARDUINO-SDA
+Removed Pin From Net: NetName=5V Pin=ARDUINO-VIN
+Removed Member From Class: ClassName=Sheet1 Member=ARDUINO

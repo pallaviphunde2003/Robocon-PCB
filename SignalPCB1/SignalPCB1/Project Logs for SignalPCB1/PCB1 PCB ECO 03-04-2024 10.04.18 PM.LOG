@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=DIR21 Pin=M1-3
+Removed Pin From Net: NetName=PWM21 Pin=M1-4
+Removed Pin From Net: NetName=DIR21 Pin=RPI-12
+Removed Pin From Net: NetName=PWM21 Pin=RPI-16
+Added Pin To Net: NetName=DIR121 Pin=M1-3
+Added Pin To Net: NetName=DIR121 Pin=RPI-12
+Added Net: Name=DIR121
+Added Pin To Net: NetName=PWM121 Pin=M1-4
+Added Pin To Net: NetName=PWM121 Pin=RPI-16
+Added Net: Name=PWM121

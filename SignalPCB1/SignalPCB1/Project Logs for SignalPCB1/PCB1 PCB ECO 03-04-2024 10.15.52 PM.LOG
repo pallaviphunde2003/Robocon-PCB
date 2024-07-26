@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=PIN32 Pin=RPI_CONN-3
+Removed Pin From Net: NetName=PIN36 Pin=RPI_CONN-4
+Removed Pin From Net: NetName=PIN38 Pin=RPI_CONN-5
+Removed Pin From Net: NetName=PIN40 Pin=RPI_CONN-6
+Change Component Footprint: Designator=RPI_CONN Old Footprint=HDR1X6H New Footprint=HDR1X4H
+Change Component Comment : Designator=RPI_CONN Old Comment=Header 6H New Comment=Header 4H
+Added Pin To Net: NetName=PIN32 Pin=RPI_CONN-1
+Added Pin To Net: NetName=PIN36 Pin=RPI_CONN-2
+Added Pin To Net: NetName=PIN38 Pin=RPI_CONN-3
+Added Pin To Net: NetName=PIN40 Pin=RPI_CONN-4

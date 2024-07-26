@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=PIN32 Pin=RPI_CONN-1
+Removed Pin From Net: NetName=PIN36 Pin=RPI_CONN-2
+Removed Pin From Net: NetName=PIN38 Pin=RPI_CONN-3
+Removed Pin From Net: NetName=PIN40 Pin=RPI_CONN-4
+Removed Member From Class: ClassName=Sheet1 Member=RPI_CONN
+Change Component Footprint: Designator=RPI_CONN2 Old Footprint=HDR1X4H New Footprint=HDR1X4
+Change Component Comment : Designator=RPI_CONN2 Old Comment=Header 4H New Comment=Header 4
+Added Component: Designator=RPI_CONN1(HDR1X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PIN32 Pin=RPI_CONN1-1
+Added Pin To Net: NetName=PIN36 Pin=RPI_CONN1-2
+Added Pin To Net: NetName=PIN38 Pin=RPI_CONN1-3
+Added Pin To Net: NetName=PIN40 Pin=RPI_CONN1-4
+Added Member To Class: ClassName=Sheet1 Member=Component RPI_CONN1 Header 4
+Added Member To Class: ClassName=Sheet1 Member=Component RPI RASPBERRY_PI_3_MODEL_B+

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=DIR31 Pin=M3-1
+Removed Pin From Net: NetName=PWM31 Pin=M3-2
+Removed Pin From Net: NetName=PWM32 Pin=M3-4
+Removed Pin From Net: NetName=GND Pin=M3-5
+Removed Pin From Net: NetName=PWM41 Pin=M4-2
+Removed Pin From Net: NetName=PWM42 Pin=M4-4
+Added Pin To Net: NetName=GND Pin=M3-1
+Added Pin To Net: NetName=PWM32 Pin=M3-2
+Added Pin To Net: NetName=PWM31 Pin=M3-4
+Added Pin To Net: NetName=DIR31 Pin=M3-5
+Added Pin To Net: NetName=GND Pin=M4-1
+Added Pin To Net: NetName=PWM42 Pin=M4-2
+Added Pin To Net: NetName=PWM41 Pin=M4-4
+Added Pin To Net: NetName=GND Pin=RPI-31
+Change Net Name : Old Net Name=GND New Net Name=DIR41
+Added Rule: Name=MaxMinWidth_2

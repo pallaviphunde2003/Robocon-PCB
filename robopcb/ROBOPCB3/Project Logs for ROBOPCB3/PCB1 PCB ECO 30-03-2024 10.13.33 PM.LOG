@@ -1,0 +1,174 @@
+Added Component: Designator=BUCK5V(BUCK)
+Added Component: Designator=BUCK12V(BUCK)
+Added Component: Designator=KS1(KS)
+Added Component: Designator=P1(TE_282837-2)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/282837-2/TE+Connectivity+AMP+Connectors/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "282837-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/282837-2/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/282837-2/TE+Connectivity+AMP+Connectors/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P2(TE_282837-2)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/282837-2/TE+Connectivity+AMP+Connectors/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "282837-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/282837-2/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/282837-2/TE+Connectivity+AMP+Connectors/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P3(TE_282837-2)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/282837-2/TE+Connectivity+AMP+Connectors/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "282837-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/282837-2/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/282837-2/TE+Connectivity+AMP+Connectors/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P4(TE_282837-2)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/282837-2/TE+Connectivity+AMP+Connectors/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "282837-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/282837-2/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/282837-2/TE+Connectivity+AMP+Connectors/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P5(TE_282837-2)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/282837-2/TE+Connectivity+AMP+Connectors/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "282837-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/282837-2/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/282837-2/TE+Connectivity+AMP+Connectors/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P6(TE_282837-2)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/282837-2/TE+Connectivity+AMP+Connectors/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "282837-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/282837-2/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/282837-2/TE+Connectivity+AMP+Connectors/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P7(TE_282837-2)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/282837-2/TE+Connectivity+AMP+Connectors/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "282837-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/282837-2/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/282837-2/TE+Connectivity+AMP+Connectors/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P8(TE_282837-2)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/282837-2/TE+Connectivity+AMP+Connectors/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "282837-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/282837-2/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/282837-2/TE+Connectivity+AMP+Connectors/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P9(TE_282837-2)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/282837-2/TE+Connectivity+AMP+Connectors/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "282837-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/282837-2/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/282837-2/TE+Connectivity+AMP+Connectors/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P10(TE_282837-2)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/282837-2/TE+Connectivity+AMP+Connectors/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "282837-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/282837-2/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/282837-2/TE+Connectivity+AMP+Connectors/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P11(TE_282837-2)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/282837-2/TE+Connectivity+AMP+Connectors/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "282837-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/282837-2/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/282837-2/TE+Connectivity+AMP+Connectors/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P12(TE_282837-2)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/282837-2/TE+Connectivity+AMP+Connectors/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "282837-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/282837-2/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/282837-2/TE+Connectivity+AMP+Connectors/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P13(TE_282837-2)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/282837-2/TE+Connectivity+AMP+Connectors/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "282837-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/282837-2/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/282837-2/TE+Connectivity+AMP+Connectors/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V Pin=BUCK12V-3
+Added Pin To Net: NetName=12V Pin=P10-1
+Added Pin To Net: NetName=12V Pin=P11-1
+Added Pin To Net: NetName=12V Pin=P12-1
+Added Pin To Net: NetName=12V Pin=P13-1
+Added Net: Name=12V
+Added Pin To Net: NetName=24V Pin=BUCK5V-1
+Added Pin To Net: NetName=24V Pin=BUCK12V-1
+Added Pin To Net: NetName=24V Pin=P1-1
+Added Pin To Net: NetName=24V Pin=P2-1
+Added Pin To Net: NetName=24V Pin=P5-1
+Added Pin To Net: NetName=24V Pin=P6-1
+Added Pin To Net: NetName=24V Pin=P7-1
+Added Pin To Net: NetName=24V Pin=P8-1
+Added Pin To Net: NetName=24V Pin=P9-1
+Added Net: Name=24V
+Added Pin To Net: NetName=GND Pin=KS1-2
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=GND Pin=P4-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=NetP1_2 Pin=P2-2
+Added Pin To Net: NetName=NetP1_2 Pin=P3-1
+Added Pin To Net: NetName=NetP1_2 Pin=P4-1
+Added Net: Name=NetP1_2
+Added Pin To Net: NetName=OUT Pin=BUCK5V-2
+Added Pin To Net: NetName=OUT Pin=BUCK5V-4
+Added Pin To Net: NetName=OUT Pin=BUCK12V-2
+Added Pin To Net: NetName=OUT Pin=BUCK12V-4
+Added Pin To Net: NetName=OUT Pin=KS1-1
+Added Pin To Net: NetName=OUT Pin=P5-2
+Added Pin To Net: NetName=OUT Pin=P6-2
+Added Pin To Net: NetName=OUT Pin=P7-2
+Added Pin To Net: NetName=OUT Pin=P8-2
+Added Pin To Net: NetName=OUT Pin=P9-2
+Added Pin To Net: NetName=OUT Pin=P10-2
+Added Pin To Net: NetName=OUT Pin=P11-2
+Added Pin To Net: NetName=OUT Pin=P12-2
+Added Pin To Net: NetName=OUT Pin=P13-2
+Added Net: Name=OUT
+Added Class: Name=Sheet1

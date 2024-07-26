@@ -1,0 +1,65 @@
+Removed Pin From Net: NetName=DIR11 Pin=RPI-8
+Removed Pin From Net: NetName=GND Pin=RPI-9
+Removed Pin From Net: NetName=PWM11 Pin=RPI-10
+Removed Pin From Net: NetName=DIR31 Pin=RPI-11
+Removed Pin From Net: NetName=DIR121 Pin=RPI-12
+Removed Pin From Net: NetName=PWM31 Pin=RPI-13
+Removed Pin From Net: NetName=DIR32 Pin=RPI-15
+Removed Pin From Net: NetName=PWM121 Pin=RPI-16
+Removed Pin From Net: NetName=DIR21 Pin=RPI-18
+Removed Pin From Net: NetName=PWM32 Pin=RPI-19
+Removed Pin From Net: NetName=PWM21 Pin=RPI-22
+Removed Pin From Net: NetName=DIR22 Pin=RPI-24
+Removed Pin From Net: NetName=PWM22 Pin=RPI-26
+Removed Pin From Net: NetName=DIR41 Pin=RPI-31
+Removed Pin From Net: NetName=PWM41 Pin=RPI-33
+Removed Pin From Net: NetName=DIR42 Pin=RPI-35
+Removed Pin From Net: NetName=PWM42 Pin=RPI-37
+Removed Pin From Net: NetName=PIN7 Pin=RPI_CONN2-1
+Removed Pin From Net: NetName=PIN21 Pin=RPI_CONN2-2
+Removed Pin From Net: NetName=PIN23 Pin=RPI_CONN2-3
+Removed Pin From Net: NetName=PIN29 Pin=RPI_CONN2-4
+Removed Member From Class: ClassName=Sheet1 Member=RPI_CONN1
+Removed Member From Class: ClassName=Sheet1 Member=RPI_CONN2
+Added Component: Designator=CONNECTOR(HDR1X11)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PIN7 Pin=CONNECTOR-1
+Added Pin To Net: NetName=3v3 Pin=CONNECTOR-5
+Added Pin To Net: NetName=PIN21 Pin=CONNECTOR-8
+Added Pin To Net: NetName=PIN23 Pin=CONNECTOR-9
+Added Pin To Net: NetName=GND Pin=CONNECTOR-10
+Added Pin To Net: NetName=PIN29 Pin=CONNECTOR-11
+Added Pin To Net: NetName=DIR41 Pin=RPI-8
+Added Pin To Net: NetName=PWM41 Pin=RPI-10
+Added Pin To Net: NetName=DIR42 Pin=RPI-12
+Added Pin To Net: NetName=PWM42 Pin=RPI-16
+Added Pin To Net: NetName=DIR11 Pin=RPI-18
+Added Pin To Net: NetName=PWM11 Pin=RPI-22
+Added Pin To Net: NetName=DIR121 Pin=RPI-24
+Added Pin To Net: NetName=PWM121 Pin=RPI-26
+Added Pin To Net: NetName=DIR31 Pin=RPI-31
+Added Pin To Net: NetName=DIR21 Pin=RPI-32
+Added Pin To Net: NetName=PWM31 Pin=RPI-33
+Added Pin To Net: NetName=DIR32 Pin=RPI-35
+Added Pin To Net: NetName=PWM21 Pin=RPI-36
+Added Pin To Net: NetName=PWM32 Pin=RPI-37
+Added Pin To Net: NetName=DIR22 Pin=RPI-38
+Added Pin To Net: NetName=PWM22 Pin=RPI-40
+Added Pin To Net: NetName=PIN9 Pin=CONNECTOR-2
+Added Pin To Net: NetName=PIN9 Pin=RPI-9
+Added Net: Name=PIN9
+Added Pin To Net: NetName=PIN11 Pin=CONNECTOR-3
+Added Pin To Net: NetName=PIN11 Pin=RPI-11
+Added Net: Name=PIN11
+Added Pin To Net: NetName=PIN13 Pin=CONNECTOR-6
+Added Pin To Net: NetName=PIN13 Pin=RPI-13
+Added Net: Name=PIN13
+Added Pin To Net: NetName=PIN15 Pin=CONNECTOR-4
+Added Pin To Net: NetName=PIN15 Pin=RPI-15
+Added Net: Name=PIN15
+Added Pin To Net: NetName=PIN19 Pin=CONNECTOR-7
+Added Pin To Net: NetName=PIN19 Pin=RPI-19
+Added Net: Name=PIN19
+Added Member To Class: ClassName=Sheet1 Member=Component CONNECTOR Header 11
